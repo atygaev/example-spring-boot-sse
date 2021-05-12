@@ -1,0 +1,18 @@
+example/service/VotesInfoChannel.java
+ example.service.VotesInfoChannel
+example/api/VotesApi.java
+ example.api.VotesApi
+example/Application.java
+ example.Application
+example/service/provider/FakeVotesProvider.java
+ example.service.provider.FakeVotesProvider
+example/service/VotesService.java
+ example.service.VotesService
+example/service/provider/VotesProvider.java
+ example.service.provider.VotesProvider
+example/service/VotesInfo.java
+ example.service.VotesInfo
+ example.service.VotesInfo$VotesInfoBuilder
+example/api/VotesInfoDto.java
+ example.api.VotesInfoDto
+ example.api.VotesInfoDto$VotesInfoDtoBuilder
