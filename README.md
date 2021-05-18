@@ -18,3 +18,5 @@ Votes are generated from server and pushed by server to clients.
 
 ## Live demo
 - https://example-spring-boot-sse.herokuapp.com
+
+![demo](https://user-images.githubusercontent.com/27987608/118588603-e8158a00-b7c8-11eb-93ca-3e779be1c576.gif)
